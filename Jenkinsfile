@@ -1,6 +1,6 @@
 def CONTAINER_NAME="sample-jenkins-app"
 def CONTAINER_TAG="latest"
-def DOCKER_HUB_USER="mesadhan"      // Change with you'r DockerHub username.
+def DOCKER_HUB_USER="aacordov"      // Change with you'r DockerHub username.
 def HTTP_PORT="8090"                // This is related to application port
 
 
